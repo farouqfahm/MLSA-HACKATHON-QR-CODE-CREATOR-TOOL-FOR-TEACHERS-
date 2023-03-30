@@ -10,7 +10,7 @@ STEP 1: Copy the link you want to convert to QR Code
 STEP 2: Click on the central yellow button
 
 
-STEP 3: "Paste the link in the provided text-box
+STEP 3: Paste the link into the provided text-box
 
 
 STEP 4: Hit Enter Key on your keyboard or click the yellow button at the right of the text-box

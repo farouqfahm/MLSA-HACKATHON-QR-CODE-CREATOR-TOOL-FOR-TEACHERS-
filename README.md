@@ -2,6 +2,8 @@
 A QR-code generator for teachers to convert links into QR codes in downloadable .png format and attach to their presentation for students to scan and get access to those links.
 
 TO USE THE APP
+
+
 STEP 1: Copy the link you want to convert to QR Code
 
 
